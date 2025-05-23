@@ -25,9 +25,9 @@ python test_Pancreas.py
 python test_ACDC.py
 ```
 ### 4. Visual comparison on LA, Pancreas and ACDC datasets
-![figure_eval](https://github.com/caoluyang0830/MSDI/blob/main/fig//LA.png)  
-![figure_eval](https://github.com/caoluyang0830/MSDI/blob/main/fig//Pancreas.png)
-![figure_eval](https://github.com/caoluyang0830/MSDI/blob/main/fig//ACDC.png)
+![figure_eval](https://github.com/caoluyang0830/MSDI/blob/main/fig/LA.png)  
+![figure_eval](https://github.com/caoluyang0830/MSDI/blob/main/fig/Pancreas.png)
+![figure_eval](https://github.com/caoluyang0830/MSDI/blob/main/fig/ACDC.png)
 
 ### 5. Quantitative comparison on LA, Pancreas and ACDC datasets
 ![table_eval](https://github.com/caoluyang0830/CVBM/blob/main/fig/LA_TABLE.png)
