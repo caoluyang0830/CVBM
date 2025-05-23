@@ -8,7 +8,7 @@ by Luyang, Cao, Jianwei Li, and Yinghuan Shi.
 * NVIDIA GPU+CUDA
 
 ### 2. Network Architecture
-![figure_arch](https://github.com/caoluyang0830/MSDI/blob/main/fig//framework.png)
+![figure_arch](https://github.com/caoluyang0830/CVBM/blob/main/fig//framework.pdf)
 
 
 ### 3. Training and Testing
