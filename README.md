@@ -25,8 +25,11 @@ python test_Pancreas.py
 python test_ACDC.py
 ```
 ### 4. Visual comparison on LA, Pancreas and ACDC datasets
+#### 4.1 LA dataset
 ![figure_eval](https://github.com/caoluyang0830/CVBM/blob/main/fig/LA.png)  
+#### 4.2 Pancreas dataset
 ![figure_eval](https://github.com/caoluyang0830/CVBM/blob/main/fig/Pancreas.png)
+#### 4.3 ACDC dataset
 ![figure_eval](https://github.com/caoluyang0830/CVBM/blob/main/fig/ACDC.png)
 
 ### 5. Quantitative comparison on LA, Pancreas and ACDC datasets
