@@ -24,15 +24,15 @@ python test_LA.py
 python test_Pancreas.py
 python test_ACDC.py
 ```
-### 4. Visual comparison on LA, Pancreas, ACDC, and HRF datasets
+### 4. Visual comparison on LA, Pancreas and ACDC datasets
 ![figure_eval](https://github.com/caoluyang0830/MSDI/blob/main/fig//LOLv1.pdf)  
 ![figure_eval](https://github.com/caoluyang0830/MSDI/blob/main/fig//LOLv2real.pdf)
 ![figure_eval](https://github.com/caoluyang0830/MSDI/blob/main/fig//LOLv2sys.pdf)
 
-### 5. Quantitative comparison on LA, Pancreas, ACDC, and HRF datasets
-![table_eval](https://github.com/caoluyang0830/MSDI/blob/main/fig/LOL_v1_result.pdf)
-![table_eval](https://github.com/caoluyang0830/MSDI/blob/main/fig/LOLv2real_result.pdf)
-![table_eval](https://github.com/caoluyang0830/MSDI/blob/main/fig/LOLv2sys_result.pdf)
+### 5. Quantitative comparison on LA, Pancreas and ACDC datasets
+![table_eval](https://github.com/caoluyang0830/CVBM/blob/main/fig/LOL_v1_result.png)
+![table_eval](https://github.com/caoluyang0830/CVBM/blob/main/fig/LOLv2real_result.pdf)
+![table_eval](https://github.com/caoluyang0830/CVBM/blob/main/fig/ACDC_TABLE.png)
 
 ## Acknowledgements
 Our code is largely based on [BCP](https://github.com/DeepMed-Lab-ECNU/BCP). We sincerely appreciate the valuable contributions of these authors, and we hope our work may also offer some useful insights to the field.
