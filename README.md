@@ -8,7 +8,7 @@ by Luyang, Cao, Jianwei Li, and Yinghuan Shi.
 * NVIDIA GPU+CUDA
 
 ### 2. Network Architecture
-![figure_arch](https://github.com/caoluyang0830/CVBM/blob/main/fig//framework.pdf)
+![figure_arch](https://github.com/caoluyang0830/CVBM/blob/main/fig//framework.png)
 
 
 ### 3. Training and Testing
@@ -25,13 +25,13 @@ python test_Pancreas.py
 python test_ACDC.py
 ```
 ### 4. Visual comparison on LA, Pancreas and ACDC datasets
-![figure_eval](https://github.com/caoluyang0830/MSDI/blob/main/fig//LOLv1.pdf)  
-![figure_eval](https://github.com/caoluyang0830/MSDI/blob/main/fig//LOLv2real.pdf)
-![figure_eval](https://github.com/caoluyang0830/MSDI/blob/main/fig//LOLv2sys.pdf)
+![figure_eval](https://github.com/caoluyang0830/MSDI/blob/main/fig//LA.png)  
+![figure_eval](https://github.com/caoluyang0830/MSDI/blob/main/fig//Pancreas.png)
+![figure_eval](https://github.com/caoluyang0830/MSDI/blob/main/fig//ACDC.png)
 
 ### 5. Quantitative comparison on LA, Pancreas and ACDC datasets
-![table_eval](https://github.com/caoluyang0830/CVBM/blob/main/fig/LOL_v1_result.png)
-![table_eval](https://github.com/caoluyang0830/CVBM/blob/main/fig/LOLv2real_result.pdf)
+![table_eval](https://github.com/caoluyang0830/CVBM/blob/main/fig/LA_TABLE.png)
+![table_eval](https://github.com/caoluyang0830/CVBM/blob/main/fig/PANCREAS_TABLE.png)
 ![table_eval](https://github.com/caoluyang0830/CVBM/blob/main/fig/ACDC_TABLE.png)
 
 ## Acknowledgements
